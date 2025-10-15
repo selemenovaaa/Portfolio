@@ -1,1 +1,1 @@
-# [Ссылка на актуальный дашборд в DataLens](https://datalens.ru/ahqs2cyufwq2v?state=5d1d4677671)
+# [Ссылка на актуальный дашборд в DataLens](https://datalens.yandex/ahqs2cyufwq2v)
